@@ -1,0 +1,11 @@
+	cheatScreen db " _____  _                _       ", 0Ah, 0Dh
+                db "/  __ \| |              | |      ", 0Ah, 0Dh
+                db "| /  \/| |__   ___  __ _| |_ ___ ", 0Ah, 0Dh
+                db "||     |  _ \ / _ \/ _` | __/ __|", 0Ah, 0Dh
+                db "| \__/\| | | |  __/ (_| | |_\__ \", 0Ah, 0Dh
+                db " \____/|_| |_|\___|\__,_|\__|___/", 0Ah, 0Dh
+                db "                                 ", 0Ah, 0Dh
+                db "           change level          ", 0Ah, 0Dh
+                db "                                 ", 0Ah, 0Dh
+                db "         change character        ", 0Ah, 0Dh
+                db "                                $"

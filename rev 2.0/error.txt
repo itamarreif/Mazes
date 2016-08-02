@@ -1,0 +1,27 @@
+errorScreen db "                   __---__                      ", 0Ah, 0Dh
+                db "                 _-       \--________           ", 0Ah, 0Dh
+                db "            __--( /     \ )XXXXXXXXXXX\         ", 0Ah, 0Dh
+                db "          .-XXX(   O   O  )XXXXXXXXXXXXXXX\     ", 0Ah, 0Dh
+                db "         /XXX(       U     )        XXXXXXX\    ", 0Ah, 0Dh
+                db "       /XXXXX(              )--_  XXXXXXXXXXX\  ", 0Ah, 0Dh
+                db "      /XXXXX/ (      O     )   XXXXXX   \XXXXX\ ", 0Ah, 0Dh
+                db "      XXXXX/   /            XXXXXX   \__ \XXXXX ", 0Ah, 0Dh
+                db "      XXXXXX__/          XXXXXX         \__---->", 0Ah, 0Dh
+                db "____  XXX__/          XXXXXX      \__         / ", 0Ah, 0Dh
+                db "\-  --__/   ___/\  XXXXXX            /  ___--/X ", 0Ah, 0Dh
+                db " \-\    ___/    XXXXXX              '--- XXXXXX ", 0Ah, 0Dh
+                db "    \-\/XXX\ XXXXXX                      /XXXXX ", 0Ah, 0Dh
+                db "      \XXXXXXXXX   \                    /XXXXX/ ", 0Ah, 0Dh
+                db "       \XXXXXX      >                 _/XXXXX/  ", 0Ah, 0Dh
+                db "         \XXXXX--__/              __-- XXXX/    ", 0Ah, 0Dh
+                db "          \XXXXXXXX---------------  XXXXXX/     ", 0Ah, 0Dh
+                db "             \XXXXXXXXXXXXXXXXXXXXXXXXXX/       ", 0Ah, 0Dh
+                db "               \XXXXXXXXXXXXXXXXXX/             ", 0Ah, 0Dh
+                db "                _____                           ", 0Ah, 0Dh
+                db "               |  ___|                          ", 0Ah, 0Dh
+                db "               | |__ _ __ _ __ ___  _ __        ", 0Ah, 0Dh
+                db "               |  __| '__| '__/ _ \| '__|       ", 0Ah, 0Dh
+                db "               | |__| |  | | | (_) | |          ", 0Ah, 0Dh
+                db "               \____/_|  |_|  \___/|_|          ", 0Ah, 0Dh
+                db "                 You pressed a bad key!         ", 0Ah, 0Dh
+                db "                   click to restart            $"

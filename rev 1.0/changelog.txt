@@ -1,0 +1,15 @@
+0.1
+0.2 working no stars
+0.3
+0.4 working stars no newLevel
+0.5 working newLevel not working nextLevel
+0.6 working newLevel not working mazes array
+0.6.1 clean
+0.7 working nextLevel not working nextLevel position
+0.7.1 working nextLevel not work nextLevel position 3 mazes + victory message
+0.7.1.1 working nextLevel not work nextLevel position 3 mazes + victory message fixed $count
+0.8 fixed nextLevel position
+0.8.1 mouse not working
+0.8.2 mouse positions not working
+0.9 working mouse title screen
+1.0 everything works!

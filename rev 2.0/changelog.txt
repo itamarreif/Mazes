@@ -1,0 +1,5 @@
+1.1 error screen not working
+1.2 error screen works
+1.3 started implementing cheat screen mouse functions
+1.4 cheats mouse functions properly, need to implement content to changeStart/Character
+1.5 cheats work, character select and level select work!
